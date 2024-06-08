@@ -1,7 +1,5 @@
 # Hi there, I'm Paweł Hulek! 👋
 
-[![Header](https://raw.githubusercontent.com/pawelhulek/pawelhulek/main/header.png "Header")](https://pawelhulek.github.io)
-
 Welcome to my GitHub profile! I'm a passionate developer with a knack for building innovative solutions and contributing to open-source projects.
 
 ## 🚀 About Me
@@ -33,7 +31,8 @@ Here are a few of my top projects:
 ## 📫 Contact Me
 
 - Email: [pawelhulek@gmail.com](mailto:pawelhulek@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pawelhulek/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pawe%C5%82-hulek/)
+- My webpage: [pawelhulek.pl](https://www.pawelhulek.pl)
 
 ## ⚡ Fun Fact
 
