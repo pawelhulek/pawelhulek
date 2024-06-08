@@ -55,6 +55,7 @@ Here are a few of my top projects:
 
 ## ⚡ Fun Fact
 
-- ☕ I have a passion for savoring fine coffee and dancing to the lively rhythms of bachata.
+- ☕ I have a passion for savoring fine coffee 
+- 💃 and dancing to the lively rhythms of bachata.
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just want to chat about tech.
