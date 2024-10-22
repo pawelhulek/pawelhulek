@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for buildi
 - 💼 I'm currently working on various exciting projects and always open to new opportunities.
 - 🌱 I’m constantly learning and exploring new technologies.
 - 👯 I’m looking to collaborate on interesting open-source projects.
+- 🌐 I am the author of [przedszkoletenczynek.com](https://www.przedszkoletenczynek.com), and I helped a public kindergarten modernize their webpage.
 
 ## 🛠️ Skills
 
